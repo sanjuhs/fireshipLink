@@ -20,5 +20,9 @@
 		"svelte": "^4.0.5",
 		"vite": "^4.4.2"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"firebase": "^10.3.0",
+		"firebase-admin": "^11.10.1"
+	}
 }
